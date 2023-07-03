@@ -1,2 +1,2 @@
 # Git-learning1
-!st repo creation for learning git
+1st repo creation for learning git
